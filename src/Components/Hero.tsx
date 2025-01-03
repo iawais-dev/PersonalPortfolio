@@ -6,7 +6,7 @@ const HeroSection: React.FC = () => {
     <section className="relative bg-gradient-to-r from-blue-500 to-purple-600 h-screen flex items-center justify-center text-center px-4">
       <div className="max-w-3xl text-white">
         <h1 className="text-4xl sm:text-6xl font-extrabold leading-tight mb-4">
-          Hi, I'm Awais<span className="text-yellow-300">!</span>
+          Hi, I&apos;m Awais<span className="text-yellow-300">!</span>
         </h1>
 
         {/* Subtitle */}

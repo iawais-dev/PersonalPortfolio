@@ -6,7 +6,7 @@ const AboutSection: React.FC = () => {
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl sm:text-5xl font-extrabold mb-6">About Me</h2>
         <p className="text-lg sm:text-xl mb-8 leading-relaxed">
-          I'm a passionate <span className="font-semibold">Web Developer</span> dedicated to creating responsive, scalable, and user-friendly websites.
+          I&apos;m a passionate <span className="font-semibold">Web Developer</span> dedicated to creating responsive, scalable, and user-friendly websites.
           With a strong focus on **modern web technologies**, I specialize in building clean and interactive web applications that provide seamless user experiences.
         </p>
       </div>
