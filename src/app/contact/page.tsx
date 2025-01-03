@@ -1,14 +1,14 @@
-import ContactSection from '@/Components/Contact'
-import Footer from '@/Components/Footer'
-import NavbarSection from '@/Components/Navbar'
+import ContactSection from '@/components/Contact'
+import Footer from '@/components/Footer'
+import NavbarSection from '@/components/Navbar'
 import React from 'react'
 
 function page() {
   return (
     <div>
-        <NavbarSection/>
-    <ContactSection />
-    <Footer/>
+      <NavbarSection />
+      <ContactSection />
+      <Footer />
     </div>
   )
 }
