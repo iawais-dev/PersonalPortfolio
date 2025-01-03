@@ -1,6 +1,6 @@
-import AboutSection from '@/components/About'
-import Footer from '@/components/Footer'
-import NavbarSection from '@/components/Navbar'
+import AboutSection from '@/Components/About'
+import Footer from '@/Components/Footer'
+import NavbarSection from '@/Components/Navbar'
 import React from 'react'
 
 function page() {

@@ -1,6 +1,6 @@
-import Footer from '@/components/Footer'
-import NavbarSection from '@/components/Navbar'
-import ProjectsSection from '@/components/Project'
+import Footer from '@/Components/Footer'
+import NavbarSection from '@/Components/Navbar'
+import ProjectsSection from '@/Components/Project'
 import React from 'react'
 
 function project() {
